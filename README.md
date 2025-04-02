@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Godwin Ifeanyi Uche
 
 
-# A Passionate cybersecurity enthusiast pursuing a BSc (Hons) in Cybersecurity at [The Open University](https://www.open.ac.uk), UK.  Here, you’ll find my cybersecurity projects, exploring network security, threat analysis, and system hardening.
+A Passionate cybersecurity enthusiast pursuing a BSc (Hons) in Cybersecurity at [The Open University](https://www.open.ac.uk), UK.  Here, you’ll find my cybersecurity projects, exploring network security, threat analysis, and system hardening.
+
 <a href="https://www.linkedin.com/in/godwin-ifeanyi-uche/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
