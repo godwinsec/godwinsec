@@ -15,6 +15,6 @@ A Passionate cybersecurity enthusiast pursuing a BSc (Hons) in Cybersecurity at 
 | [Windows Defender & Firewall](https://github.com/Godwingithubpage/Secure-ATM-Machine-Simulator)     | Windows Defender & Firewall management for enhanced security.
 | [Password Manager](https://github.com/Godwingithubpage/Password-Manager)     | A Python-based personal password manager for secure storage, retrieval, and password strength analysis
 | [Port-Scanner](https://github.com/Godwingithubpage/Basic-Port-Scanner)     | Python multithreaded port scanner for detecting open ports and network vulnerabilities
-| [Active Directory Monitoring Projects](https://github.com/Godwingithubpage/Project-1-Active-Directory-Monitoring-with-Grafana)        | Monitoring Active directory events and security alerts
+
 
 
